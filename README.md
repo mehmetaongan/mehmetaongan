@@ -22,9 +22,6 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
-
-
 <!--
 **alimehmet/alimehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
