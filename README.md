@@ -6,7 +6,7 @@ Welcome to my developer universe! I'm passionate about building backend systems 
 
 ## 💬 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mehmetaongan)
 
 ---
 
@@ -20,10 +20,10 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
 
 ## 📊 GitHub Insights
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetaongan&layout=compact&theme=tokyonight)
 
 <!--
-**alimehmet/alimehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mehmetaongan/mehmetaongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
