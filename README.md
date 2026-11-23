@@ -16,12 +16,16 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mehmetaongan)
 [![Weekly Downloads](https://img.shields.io/npm/dw/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
 [![Total Downloads](https://img.shields.io/npm/dt/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
 
+<!--
+
 ---
 
 ## 📊 GitHub Insights
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetaongan&layout=compact&theme=tokyonight)
 
+  
+-->
 <!--
 **mehmetaongan/mehmetaongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
