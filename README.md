@@ -1,6 +1,7 @@
 # 👨‍💻 Mehmet Ali Ongan
 
-Welcome to my developer universe! I'm passionate about building backend systems and shipping tools that help other developers grow. 💡
+Welcome to my developer universe! 
+I'm passionate about building backend systems and shipping tools that help other developers grow. 💡
 
 ---
 
